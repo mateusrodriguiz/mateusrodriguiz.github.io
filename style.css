@@ -1,0 +1,30 @@
+<style>
+
+body{
+    font-family: Montserrat, sans-serif;
+}
+img    {
+border-radius: 50%;
+}
+
+h1 {
+    color: #040F16;
+    text-align: center;
+}
+
+h2{
+    color: #001242;
+}
+
+li{
+    color: #040F16;
+}
+
+.descricao-name{
+    color: #040F16;
+    font-size: 18px;
+}
+
+
+
+</style>
