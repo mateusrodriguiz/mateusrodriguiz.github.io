@@ -1,15 +1,13 @@
-<style>
-
 body{
     font-family: Montserrat, sans-serif;
 }
-img    {
-border-radius: 50%;
+#fotoMateus {
+    border-radius: 100%;
+    padding-top: 20px;
 }
 
 h1 {
     color: #040F16;
-    text-align: center;
 }
 
 h2{
@@ -25,6 +23,43 @@ li{
     font-size: 18px;
 }
 
+.icone-borda {
+    max-width: 80px;
+    display: inline-block;
+    position: absolute;
+}
 
+.borda-superior {
+    z-index: 999;
+    width: 100%;
+    margin-right: 0;
+    margin-left: 0;
+    padding: 10px 90px 10px 94px;
+    border-bottom: 5px solid #0094c6;
+    background-color:#005e7c;
+    color: #fff;
+}
 
-</style>
+#lista-itens-bordasup {
+    padding: 20px;
+    margin-left: 20px;
+    text-align: center;
+}
+
+#borda-sup-text {
+    padding: 30px;
+    color: white;
+    text-decoration: none;
+}
+
+#redesSocaiais {
+    padding: 30px;
+    color: white;
+    text-decoration: none;
+    max-width: 80px;
+}
+
+.insta {
+    max-width: 40px;
+    padding: 5px;
+}
